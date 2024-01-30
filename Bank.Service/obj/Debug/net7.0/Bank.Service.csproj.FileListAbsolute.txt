@@ -1,0 +1,34 @@
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank\Bank.Service\bin\Debug\net7.0\Bank.Service.deps.json
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank\Bank.Service\bin\Debug\net7.0\Bank.Service.dll
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank\Bank.Service\bin\Debug\net7.0\Bank.Service.pdb
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank\Bank.Service\bin\Debug\net7.0\Bank.Data.dll
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank\Bank.Service\bin\Debug\net7.0\Bank.Domain.dll
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank\Bank.Service\bin\Debug\net7.0\Bank.Data.pdb
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank\Bank.Service\bin\Debug\net7.0\Bank.Domain.pdb
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank\Bank.Service\obj\Debug\net7.0\Bank.Service.csproj.AssemblyReference.cache
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank\Bank.Service\obj\Debug\net7.0\Bank.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank\Bank.Service\obj\Debug\net7.0\Bank.Service.AssemblyInfoInputs.cache
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank\Bank.Service\obj\Debug\net7.0\Bank.Service.AssemblyInfo.cs
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank\Bank.Service\obj\Debug\net7.0\Bank.Service.csproj.CoreCompileInputs.cache
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank\Bank.Service\obj\Debug\net7.0\Bank.Service.csproj.CopyComplete
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank\Bank.Service\obj\Debug\net7.0\Bank.Service.dll
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank\Bank.Service\obj\Debug\net7.0\refint\Bank.Service.dll
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank\Bank.Service\obj\Debug\net7.0\Bank.Service.pdb
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank\Bank.Service\obj\Debug\net7.0\ref\Bank.Service.dll
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank GitHub uchun\Bank.Service\bin\Debug\net7.0\Bank.Service.deps.json
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank GitHub uchun\Bank.Service\bin\Debug\net7.0\Bank.Service.dll
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank GitHub uchun\Bank.Service\bin\Debug\net7.0\Bank.Service.pdb
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank GitHub uchun\Bank.Service\bin\Debug\net7.0\Bank.Data.dll
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank GitHub uchun\Bank.Service\bin\Debug\net7.0\Bank.Domain.dll
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank GitHub uchun\Bank.Service\bin\Debug\net7.0\Bank.Data.pdb
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank GitHub uchun\Bank.Service\bin\Debug\net7.0\Bank.Domain.pdb
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank GitHub uchun\Bank.Service\obj\Debug\net7.0\Bank.Service.csproj.AssemblyReference.cache
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank GitHub uchun\Bank.Service\obj\Debug\net7.0\Bank.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank GitHub uchun\Bank.Service\obj\Debug\net7.0\Bank.Service.AssemblyInfoInputs.cache
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank GitHub uchun\Bank.Service\obj\Debug\net7.0\Bank.Service.AssemblyInfo.cs
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank GitHub uchun\Bank.Service\obj\Debug\net7.0\Bank.Service.csproj.CoreCompileInputs.cache
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank GitHub uchun\Bank.Service\obj\Debug\net7.0\Bank.Service.csproj.CopyComplete
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank GitHub uchun\Bank.Service\obj\Debug\net7.0\Bank.Service.dll
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank GitHub uchun\Bank.Service\obj\Debug\net7.0\refint\Bank.Service.dll
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank GitHub uchun\Bank.Service\obj\Debug\net7.0\Bank.Service.pdb
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank GitHub uchun\Bank.Service\obj\Debug\net7.0\ref\Bank.Service.dll

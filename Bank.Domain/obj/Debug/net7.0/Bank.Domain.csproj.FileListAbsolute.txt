@@ -1,0 +1,23 @@
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank\Bank.Domain\bin\Debug\net7.0\Bank.Domain.deps.json
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank\Bank.Domain\bin\Debug\net7.0\Bank.Domain.dll
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank\Bank.Domain\bin\Debug\net7.0\Bank.Domain.pdb
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank\Bank.Domain\obj\Debug\net7.0\Bank.Domain.csproj.AssemblyReference.cache
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank\Bank.Domain\obj\Debug\net7.0\Bank.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank\Bank.Domain\obj\Debug\net7.0\Bank.Domain.AssemblyInfoInputs.cache
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank\Bank.Domain\obj\Debug\net7.0\Bank.Domain.AssemblyInfo.cs
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank\Bank.Domain\obj\Debug\net7.0\Bank.Domain.csproj.CoreCompileInputs.cache
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank\Bank.Domain\obj\Debug\net7.0\Bank.Domain.dll
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank\Bank.Domain\obj\Debug\net7.0\refint\Bank.Domain.dll
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank\Bank.Domain\obj\Debug\net7.0\Bank.Domain.pdb
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank\Bank.Domain\obj\Debug\net7.0\ref\Bank.Domain.dll
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank GitHub uchun\Bank.Domain\bin\Debug\net7.0\Bank.Domain.deps.json
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank GitHub uchun\Bank.Domain\bin\Debug\net7.0\Bank.Domain.dll
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank GitHub uchun\Bank.Domain\bin\Debug\net7.0\Bank.Domain.pdb
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank GitHub uchun\Bank.Domain\obj\Debug\net7.0\Bank.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank GitHub uchun\Bank.Domain\obj\Debug\net7.0\Bank.Domain.AssemblyInfoInputs.cache
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank GitHub uchun\Bank.Domain\obj\Debug\net7.0\Bank.Domain.AssemblyInfo.cs
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank GitHub uchun\Bank.Domain\obj\Debug\net7.0\Bank.Domain.csproj.CoreCompileInputs.cache
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank GitHub uchun\Bank.Domain\obj\Debug\net7.0\Bank.Domain.dll
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank GitHub uchun\Bank.Domain\obj\Debug\net7.0\refint\Bank.Domain.dll
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank GitHub uchun\Bank.Domain\obj\Debug\net7.0\Bank.Domain.pdb
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank GitHub uchun\Bank.Domain\obj\Debug\net7.0\ref\Bank.Domain.dll

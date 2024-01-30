@@ -1,0 +1,50 @@
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank\BankApp\obj\Debug\net7.0\BankApp.csproj.AssemblyReference.cache
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank\BankApp\obj\Debug\net7.0\BankApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank\BankApp\obj\Debug\net7.0\BankApp.AssemblyInfoInputs.cache
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank\BankApp\obj\Debug\net7.0\BankApp.AssemblyInfo.cs
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank\BankApp\obj\Debug\net7.0\BankApp.csproj.CoreCompileInputs.cache
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank\BankApp\bin\Debug\net7.0\BankApp.exe
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank\BankApp\bin\Debug\net7.0\BankApp.deps.json
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank\BankApp\bin\Debug\net7.0\BankApp.runtimeconfig.json
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank\BankApp\bin\Debug\net7.0\BankApp.dll
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank\BankApp\bin\Debug\net7.0\BankApp.pdb
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank\BankApp\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank\BankApp\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank\BankApp\bin\Debug\net7.0\Npgsql.dll
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank\BankApp\bin\Debug\net7.0\Bank.Data.dll
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank\BankApp\bin\Debug\net7.0\Bank.Domain.dll
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank\BankApp\bin\Debug\net7.0\Bank.Service.dll
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank\BankApp\bin\Debug\net7.0\Bank.Data.pdb
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank\BankApp\bin\Debug\net7.0\Bank.Domain.pdb
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank\BankApp\bin\Debug\net7.0\Bank.Service.pdb
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank\BankApp\obj\Debug\net7.0\BankApp.csproj.CopyComplete
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank\BankApp\obj\Debug\net7.0\BankApp.dll
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank\BankApp\obj\Debug\net7.0\refint\BankApp.dll
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank\BankApp\obj\Debug\net7.0\BankApp.pdb
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank\BankApp\obj\Debug\net7.0\BankApp.genruntimeconfig.cache
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank\BankApp\obj\Debug\net7.0\ref\BankApp.dll
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank GitHub uchun\BankApp\bin\Debug\net7.0\BankApp.exe
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank GitHub uchun\BankApp\bin\Debug\net7.0\BankApp.deps.json
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank GitHub uchun\BankApp\bin\Debug\net7.0\BankApp.runtimeconfig.json
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank GitHub uchun\BankApp\bin\Debug\net7.0\BankApp.dll
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank GitHub uchun\BankApp\bin\Debug\net7.0\BankApp.pdb
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank GitHub uchun\BankApp\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank GitHub uchun\BankApp\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank GitHub uchun\BankApp\bin\Debug\net7.0\Npgsql.dll
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank GitHub uchun\BankApp\bin\Debug\net7.0\Bank.Data.dll
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank GitHub uchun\BankApp\bin\Debug\net7.0\Bank.Domain.dll
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank GitHub uchun\BankApp\bin\Debug\net7.0\Bank.Service.dll
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank GitHub uchun\BankApp\bin\Debug\net7.0\Bank.Data.pdb
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank GitHub uchun\BankApp\bin\Debug\net7.0\Bank.Domain.pdb
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank GitHub uchun\BankApp\bin\Debug\net7.0\Bank.Service.pdb
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank GitHub uchun\BankApp\obj\Debug\net7.0\BankApp.csproj.AssemblyReference.cache
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank GitHub uchun\BankApp\obj\Debug\net7.0\BankApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank GitHub uchun\BankApp\obj\Debug\net7.0\BankApp.AssemblyInfoInputs.cache
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank GitHub uchun\BankApp\obj\Debug\net7.0\BankApp.AssemblyInfo.cs
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank GitHub uchun\BankApp\obj\Debug\net7.0\BankApp.csproj.CoreCompileInputs.cache
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank GitHub uchun\BankApp\obj\Debug\net7.0\BankApp.csproj.CopyComplete
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank GitHub uchun\BankApp\obj\Debug\net7.0\BankApp.dll
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank GitHub uchun\BankApp\obj\Debug\net7.0\refint\BankApp.dll
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank GitHub uchun\BankApp\obj\Debug\net7.0\BankApp.pdb
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank GitHub uchun\BankApp\obj\Debug\net7.0\BankApp.genruntimeconfig.cache
+D:\Dasturlash topshiriqlari\2 C#\@ Dot.Net misollari\Ado.Net\Bank GitHub uchun\BankApp\obj\Debug\net7.0\ref\BankApp.dll

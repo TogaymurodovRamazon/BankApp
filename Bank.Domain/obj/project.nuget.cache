@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PVg87NjHIJlKYcd3aykiNLNKsNH4WIVB0ZU42Y3Mt0z9VZim79XaZC2E9JCnOUghhyP4NJMft3otzVtoOofMng==",
+  "success": true,
+  "projectFilePath": "D:\\Das\\2 C#\\@ Dot.Net misollari\\Ado.Net\\Bank GitHub uchun\\Bank.Domain\\Bank.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
